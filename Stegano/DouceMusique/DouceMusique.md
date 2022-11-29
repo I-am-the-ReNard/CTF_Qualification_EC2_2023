@@ -12,4 +12,5 @@ Qui dit fichier audio, dit souvent l'utilisation d'un outil comme sonic-visualis
 Pour installer sonic-visualiser sur kali linux : ``apt-get install sonic-visualiser``
 
 Ici, en affichant le spectrogramme du fichier nous obtenons le flag :
+
 ![Screen de l'exécution de l'outil sonic-visualiser!](assets/images/sonic-visualiser_douce_musique.png "Exécution de sonic-visualiser")
