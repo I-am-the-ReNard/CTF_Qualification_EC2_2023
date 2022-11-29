@@ -1,9 +1,9 @@
 Le fichier à télécharger s'appelle "steak-hache.jpg".
 
-Premier réflexe, on s'assure du type de fichier dont il s'agit avec la commande file <nomDuFichier> :
+Premier réflexe, on s'assure du type de fichier dont il s'agit avec la commande ``file <nomDuFichier>`` :
 ![Screen de l'exécution de la commande file sur l'image!](assets/images/file_steak-hache.png "Exécution de la commande file sur l'image")
 
-Deuxième réflexe, on regarde métadata du fichier pour obtenir un maximum d'informations sur celui-ci :
+Deuxième réflexe, on regarde les métadatas du fichier pour obtenir un maximum d'informations sur celui-ci avec la commande ``exiftool <nomDuFichier>`` :
 ![Screen de l'exécution de la commande exiftool sur l'image!](assets/images/exiftool_steak-hache.png "Exécution de la commande exiftool sur l'image")
 
 Il est possible d'obtenir encore plus d'informations en utilisant des solutions comme Aperi'Solve ou forensically :
