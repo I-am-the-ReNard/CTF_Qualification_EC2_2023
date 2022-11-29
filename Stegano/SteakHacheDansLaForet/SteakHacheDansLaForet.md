@@ -7,8 +7,7 @@ Deuxième réflexe, on regarde les métadatas du fichier pour obtenir un maximum
 
 ![Screen de l'exécution de la commande exiftool sur l'image!](assets/images/exiftool_steak-hache.png "Exécution de la commande exiftool sur l'image")
 
-Il est possible d'obtenir encore plus d'informations en utilisant des solutions comme Aperi'Solve ou forensically :
-
+Il est possible d'obtenir encore plus d'informations en utilisant des solutions comme Aperi'Solve ou forensically.
 Aperi'Solve nous apprend notamment que le fichier possède des mots de passe :
 ![Screen de l'exécution des résultats d'aperisolve sur l'image!](assets/images/aperisolve_steak-hache.png "Exécution d'aperisolve sur l'image")
 
